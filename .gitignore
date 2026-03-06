@@ -1,0 +1,13 @@
+backend/node_modules/
+frontend/node_modules/
+
+backend/.env
+frontend/.env
+
+*.log
+dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
